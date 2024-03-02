@@ -1,0 +1,9 @@
+name: DeathSwap
+version: '${project.version}'
+main: me.ash.deathswap.DeathSwap
+api-version: 1.19
+authors: [ Ash ]
+description: DeathSwap
+commands:
+  startDeathSwap:
+  stopDeathSwap:
